@@ -3,7 +3,6 @@
 User class
 """
 
-
 class User():
     """ Documentation """
 
